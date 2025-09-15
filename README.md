@@ -38,14 +38,13 @@ Subject:     Platinum API Error Notification
       Request Details:
       Method: GET
       URL: http://xxxxxxxxxx.mespensions.com/ls/click?upn=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-      Headers: {
-  "Accept": "application/json, text/plain, */*",
-  "Authorization": "Bearer xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-  "User-Agent": "axios/1.6.8",
-  "Accept-Encoding": "gzip, compress, deflate, br"
-}
-      Request Data: {
-  "platinumId": "123456789"
-}
-
+      Headers: { 
+      "Accept": "application/json, text/plain, */*", 
+      "Authorization": "Bearer xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "User-Agent": "axios/1.6.8",
+      "Accept-Encoding": "gzip, compress, deflate, br"
+      }
+      Request Data: { 
+      "platinumId": "123456789"
+      }
       Response Data: ""
